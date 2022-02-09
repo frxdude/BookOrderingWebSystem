@@ -1,0 +1,12 @@
+bek branch deer chinii codeuud
+undsen codeuud master branch deer yawna 
+tegheer hoyuland ni codenii davhtsal buyu conflict(zurchil) uusehgu
+pushlehdee dandaa bek ruu hiine.
+
+command:::: 
+
+git add . 
+git commit -m "yu hiisen talaaraa bichne (nemj, zasaj)"
+git push origin bek
+
+duus bye
